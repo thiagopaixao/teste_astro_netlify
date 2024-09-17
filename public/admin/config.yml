@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: thiagopaixao/teste_astro_netlify
   branch: main
   commit_messages:
     create: Create {{collection}} “{{slug}}”
